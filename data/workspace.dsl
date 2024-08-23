@@ -1,6 +1,5 @@
 workspace "Main" {
 
-    !docs docs
     !identifiers hierarchical
     // !impliedRelationships false
 
